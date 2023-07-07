@@ -1,6 +1,6 @@
 ---
 slug: first-blog
-title: Docusaurus-Theme-Zen
+title: 憨憨
 date: 2023-04-12 14:09:58
 tags: [docusaurus-theme-zen,lifestyle]
 authors: RiverMountain
@@ -12,7 +12,7 @@ authors: RiverMountain
 ![Github Action](https://github.com/wrm244/docusaurus-theme-zen/actions/workflows/ci.yml/badge.svg) 
 
 
-## 介绍
+## 陈爽
 
 这是使用docusaurus搭建的主题，结合了docusaurus简单易用与其他开源页面设计方案、支持MDX和React、可扩展和定制等优点，以及加上多设计美观、博客与文档一体的主题，为你提供了一个优秀的个人页面解决方案。该主题使用🦖 <a href="https://docusaurus.io/">Docusaurus</a>搭建，遵循[MIT](./LICENSE)协议。
 

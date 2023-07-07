@@ -5,10 +5,10 @@ const announcementBarContent = `🎉欢迎浏览<a href="https://github.com/wrm2
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'docusaurus-theme-zen',
+  title: '憨憨的博客',
   titleDelimiter: '-',
   url: 'https://wrm244.github.io/',//请填写你的网站
-  baseUrl: '/docusaurus-theme-zen/',//建议填写/
+  baseUrl: '/',//建议填写/
   favicon: '/assets/images/social/avatar.ico',
   organizationName: '',
   projectName: 'docusaurus-theme-zen',
@@ -52,7 +52,7 @@ const config = {
       },
     },
     navbar: {
-      title: 'docusaurus-theme-zen',
+      title: '憨憨的存档',
       logo: {
         alt: 'your name',
         src: '/assets/images/social/avatar.png',
